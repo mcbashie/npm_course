@@ -4,5 +4,7 @@
   "initialVersions": {
     "@mcbash/learning-npm": "1.3.0"
   },
-  "changesets": []
+  "changesets": [
+    "tough-zoos-deny"
+  ]
 }
