@@ -1,3 +1,10 @@
+const preX = ["X1", "X2"];
+
 export const morningGreet = (name: string) => {
-  return "Good morning " + name + " :) !!!!!!!!!!";
+  let greet = "Good morning";
+  if (preX.includes(name)) {
+    greet = greet+" preX ";
+  }
+  greet = greet + name;
+  return greet;
 };
