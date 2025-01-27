@@ -1,5 +1,15 @@
 # @mcbash/learning-npm
 
+## 1.3.0
+
+### Minor Changes
+
+- 91a3d73: minor change
+
+### Patch Changes
+
+- 50b8d05: patch
+
 ## 1.2.0
 
 ### Minor Changes
