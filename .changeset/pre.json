@@ -1,0 +1,8 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@mcbash/learning-npm": "1.3.0"
+  },
+  "changesets": []
+}
