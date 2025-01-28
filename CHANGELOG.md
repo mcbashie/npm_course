@@ -1,5 +1,12 @@
 # @mcbash/learning-npm
 
+## 2.0.0-alpha.1
+
+### Minor Changes
+
+- 5f74ea7: packagejson
+- 5f74ea7: packagejson
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
