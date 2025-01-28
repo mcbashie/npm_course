@@ -1,5 +1,11 @@
 # @mcbash/learning-npm
 
+## 2.0.0-beta.2
+
+### Major Changes
+
+- e9b514c: x3
+
 ## 2.0.0-alpha.1
 
 ### Minor Changes
