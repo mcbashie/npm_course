@@ -1,5 +1,6 @@
 # @mcbash/learning-npm
 
+
 ## 2.0.0-beta.2
 
 ### Major Changes
@@ -18,6 +19,13 @@
 ### Major Changes
 
 - e65813a: preX
+
+## 1.3.1
+
+### Patch Changes
+
+- 0a3d6a5: bed bugs
+
 
 ## 1.3.0
 
