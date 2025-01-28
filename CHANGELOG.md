@@ -1,5 +1,11 @@
 # @mcbash/learning-npm
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- e65813a: preX
+
 ## 1.3.0
 
 ### Minor Changes
