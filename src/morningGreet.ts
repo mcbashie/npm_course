@@ -1,4 +1,4 @@
-const preX = ["X1", "X2"];
+const preX = ["X1", "X2", "X3"];
 
 export const morningGreet = (name: string) => {
   let greet = "Good morning";
