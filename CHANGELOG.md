@@ -1,5 +1,11 @@
 # @mcbash/learning-npm
 
+## 1.3.1
+
+### Patch Changes
+
+- 0a3d6a5: bed bugs
+
 ## 1.3.0
 
 ### Minor Changes
