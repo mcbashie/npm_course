@@ -1,5 +1,24 @@
 # @mcbash/learning-npm
 
+## 2.0.0-beta.2
+
+### Major Changes
+
+- e9b514c: x3
+
+## 2.0.0-alpha.1
+
+### Minor Changes
+
+- 5f74ea7: packagejson
+- 5f74ea7: packagejson
+
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- e65813a: preX
+
 ## 1.3.0
 
 ### Minor Changes
