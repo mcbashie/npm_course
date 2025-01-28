@@ -5,6 +5,8 @@
     "@mcbash/learning-npm": "1.3.0"
   },
   "changesets": [
+    "cold-rings-share",
+    "perfect-otters-dress",
     "tough-zoos-deny"
   ]
 }
